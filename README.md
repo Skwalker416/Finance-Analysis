@@ -1,5 +1,5 @@
 
-# AI Financial News Analysis
+#Finance-Analysis
 
 This repository contains an AI-driven project aimed at analyzing financial news headlines and their correlation with stock market movements. It utilizes natural language processing (NLP) techniques, statistical analysis, and visualization to extract insights from financial data and news headlines.
 
@@ -53,11 +53,12 @@ This project was developed as part of **10 Academy AI Mastery - Week 1 Challenge
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/AI-Financial-News-Analysis.git
+   git clone https://github.com/your-username/Finance-Analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd AI-Financial-News-Analysis
+   cd Finance-Analysis
+
    ```
 3. Create a virtual environment and activate it:
    ```bash
