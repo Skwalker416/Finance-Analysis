@@ -42,11 +42,7 @@ This project was developed as part of **10 Academy AI Mastery - Week 1 Challenge
 │   ├── sentiment_analysis.py    # NLP sentiment analysis
 │   └── correlation_analysis.py  # Statistical correlation functions
 ├── src
-│   ├── main.py                  # Main script to run the project
-│   ├── utils.py                 # Helper functions for loading and cleaning data
-│   ├── indicators.py            # Stock market indicator calculations
-│   ├── analysis.py              # Financial analysis functions
-│   └── visualization.py         # Data visualization
+│   ├── app.py                  # Main script to run the project
 ├── test
 │   ├── test_data_processing.py  # Unit tests for data processing
 │   └── test_sentiment_analysis.py # Unit tests for sentiment analysis
@@ -76,7 +72,7 @@ This project was developed as part of **10 Academy AI Mastery - Week 1 Challenge
 ## Usage
 1. **Run the main script**:
    ```bash
-   python src/main.py
+   python src/app.py
    ```
 2. **Jupyter Notebooks**:
    - Explore the notebooks in the `notebook/` directory for detailed analyses.
